@@ -1,0 +1,4 @@
+S->T|T+S|T-S
+T->NUM|ID
+NUM->0|2|3
+ID->a|m|j|h
